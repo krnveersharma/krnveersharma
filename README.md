@@ -20,11 +20,13 @@ I believe in using the right tool for the job. While my core focus is on Golang,
 
 ### 🌐 Featured Project Spotlight
 
-#### **Low-Latency Order Router (Golang)**
-* **Repo:** [Go to the Trade-Executor Repository](https://github.com/krnveersharma/Trade-Executor) (or your renamed repo)
+#### **1. Low-Latency Order Router (Golang)**
+* **Repo:** [Go to the Trade-Executor Repository](https://github.com/krnveersharma/Trade-Executor)
 * **Description:** A system engineered for low latency in trade execution. Built on python microservices leveraging Kafka for reliable order flow and Redis for ultra-fast caching of market data.
 
-
+#### **2. BrowserDeck - Automation Service**
+* **Repo:** [Go to the BrowserDeck Repository](https://github.com/krnveersharma/BrowserDeck) (Currently in development; Chrome automation infrastructure is complete)
+* **Description:** This project is a robust, self hosted testing and automation service that provides output mirroring an on device experience.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krnveersharma&show_icons=true&theme=vue)](https://github.com/krnveersharma)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnveersharma&layout=compact&theme=vue)](https://github.com/krnveersharma)
